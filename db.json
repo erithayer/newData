@@ -1,0 +1,44 @@
+{ "general":[
+
+
+{
+    "1": {
+        "name": "Նիկոլ",
+        "positions": [
+            {
+                "end_date": null,
+                "id": 1,
+                "institution": 7,
+                "name": "Վարչության անդամ",
+                "start_date": "Thu, 01 Jan 2015 00:00:00 GMT"
+            }
+        ],
+        "surname": "Փաշինյան"
+    },
+    "2": {
+        "name": "Սուրեն",
+        "positions": [],
+        "surname": "Պապիկյան"
+    },
+    "3": {
+        "name": "Արարատ",
+        "positions": [
+            {
+                "end_date": null,
+                "id": 1,
+                "institution": 7,
+                "name": "Վարչության անդամ",
+                "start_date": "Fri, 01 Jan 2016 00:00:00 GMT"
+            },
+            {
+                "end_date": null,
+                "id": 2,
+                "institution": 2,
+                "name": "Պատգամավոր",
+                "start_date": "Sun, 02 Apr 2017 00:00:00 GMT"
+            }
+        ],
+        "surname": "Միրզոյան"
+    }
+}
+]}
