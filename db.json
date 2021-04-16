@@ -25,6 +25,7 @@
           "age": "42",
           "cityBorn": "Երևան",
           "position": "ԱԺ նախագահ",
+          "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Պատմաբան",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
@@ -41,6 +42,7 @@
           "age": "32",
           "cityBorn": "Երևան",
           "position": "Փոխվարչապետ",
+                "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Լրագրող",
           "party": " "
           
@@ -55,6 +57,7 @@
           "age": "32",
           "cityBorn": "Երևան",
           "position": "Աժ նախագահի տեղակալ",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Լրագրող",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
@@ -70,6 +73,7 @@
           "age": "32",
           "cityBorn": "Երևան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Հաշվապահ",
           "party": " "
           
@@ -84,6 +88,7 @@
           "age": "38",
           "cityBorn": "Երևան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Հաշվապահ",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": ""
@@ -99,6 +104,7 @@
           "age": "41",
           "cityBorn": "Երևան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Պատմաբան, Հաղորդավար",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
@@ -114,6 +120,7 @@
           "age": "29",
           "cityBorn": "Երևան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Իրավագետ",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
@@ -129,6 +136,7 @@
           "age": "35",
           "cityBorn": "Երևան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Լրագրող",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
@@ -144,6 +152,7 @@
           "age": "36",
           "cityBorn": "Ստեփանավան",
           "position": "Պատգամավոր",
+        "position2": {"first": "varchapet", "second": "apush"},
           "proffesion": "Մանկավարժ-հոգեբան",
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
