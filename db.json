@@ -167,6 +167,107 @@
           "party": "«Քաղաքացիական պայմանագիր»",
           "biography": " "
           
+          },
+            {
+          "id": "11",
+          "link": "hayk",
+          "img": "https://i.ibb.co/4YjWJH4/img-5.jpg",
+          "firstName": "Հայկ",
+          "lastName": "Սարգսյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "32",
+          "cityBorn": "Երևան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Հաշվապահ",
+          "party": " "
+          
+          },
+{
+          "id": "12",
+           "link": "lena",
+          "img": "https://i.ibb.co/Yb2bmR4/img-6.jpg",
+          "firstName": "Լենա",
+          "lastName": "Նազարյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "38",
+          "cityBorn": "Երևան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Հաշվապահ",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": ""
+          
+          },
+{
+          "id": "13",
+          "link": "lusine",
+          "img": "https://i.ibb.co/JnML55Q/img-7.jpg",
+          "firstName": "Լուսինե",
+          "lastName": "Բադալյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "41",
+          "cityBorn": "Երևան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Պատմաբան, Հաղորդավար",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "id": "14",
+          "link": "suren",
+          "img": "https://i.ibb.co/ryFPQ9H/img-9.jpg",
+          "firstName": "Սուրեն",
+          "lastName": "Գրիգորյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "29",
+          "cityBorn": "Երևան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Իրավագետ",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "id": "15",
+          "link": "sisak",
+          "img": "https://i.ibb.co/Bn4xWY0/img-8.jpg",
+          "firstName": "Սիսակ",
+          "lastName": "Գաբրիելյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "35",
+          "cityBorn": "Երևան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Լրագրող",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "id": "16",
+          "link": "arpine",
+          "img": "https://i.ibb.co/hFQJWdj/img-10.jpg",
+          "firstName": "Արփինե",
+          "lastName": "Դավոյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "36",
+          "cityBorn": "Ստեփանավան",
+          "position": {"first": "Պատգամավոր", "second": "Ապուշ"},
+          "startDate": "01.01.2015",
+          "endtDate": "01.01.2021",
+          "proffesion": "Մանկավարժ-հոգեբան",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
           }
       ]
   }
